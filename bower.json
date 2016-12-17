@@ -1,0 +1,26 @@
+{
+  "name": "hello_flask",
+  "authors": [
+    "John Dorlus <jsdorlus@gmail.com>"
+  ],
+  "description": "hello world application in flask",
+  "main": "hello_flask.py",
+  "keywords": [
+    "flask",
+    "angular",
+    "bower",
+    "grunt",
+    "hello",
+    "world"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.github.com/silne30/hello_flask",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "hello_world/static/js/vendor",
+    "test",
+    "tests"
+  ]
+}
